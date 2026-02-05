@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋, I'm Ariel Marinho
 
-<!--
-**arieldreis/arieldreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Student of Systems Development | Java & JavaScript**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build scalable software solutions with a strong focus on **backend development**, clean architecture, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about writing clean, maintainable code and constantly improving my skills through real projects and continuous learning.
+
+Currently, I’m looking for an **internship** opportunity where I can grow as a software developer, contribute to real-world systems, and learn from experienced engineers.
+
+Interested in **backend development, APIs, databases, and modern web technologies.**
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/arieldreis">
+    <img src="https://img.shields.io/badge/GitHub-arieldreis-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/arieldreis/">
+    <img src="https://img.shields.io/badge/Instagram-@arieldreis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arielmarinho16">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a>
+</p>
+
+---
+
+## 🧠 What I do
+
+- 🧩 Backend development with a focus on clean and readable code
+- 🏗️ Building small to medium-scale systems for learning and practice
+- ⚡ Applying performance-aware logic and optimizations at a basic level
+- 🔐 Developing REST APIs and understanding authentication concepts
+- 🗄️ Working with databases, queries, and data consistency
+- 🤖 Creating automation scripts and simple integrations
+- 📊 Handling data and building basic dashboards
+- 🎓 Constantly learning and improving through real projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
+### Backend
+
+![SpringBoot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
