@@ -25,6 +25,9 @@ Interested in **backend development, APIs, databases, and modern web technologie
   <a href="https://www.linkedin.com/in/arielmarinho16">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   <a>
+  <a href="https://portifolioarielmarinho.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
 </p>
 
 ---
