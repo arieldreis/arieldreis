@@ -3,7 +3,7 @@
 🚀 **Student of Systems Development | Java & JavaScript**  
 🇧🇷 Brazil
 
-I build scalable software solutions with a strong focus on **backend development**, clean architecture, and performance.
+I build software solutions with a strong focus on **backend development**, clean architecture, and performance.
 
 I’m passionate about writing clean, maintainable code and constantly improving my skills through real projects and continuous learning.
 
@@ -32,13 +32,13 @@ Interested in **backend development, APIs, databases, and modern web technologie
 ## 🧠 What I do
 
 - 🧩 Backend development with a focus on clean and readable code
-- 🏗️ Building small to medium-scale systems for learning and practice
-- ⚡ Applying performance-aware logic and optimizations at a basic level
+- 🏗️ Building backend systems and APIs for learning and real projects
+- ⚡ Applying performance-aware logic and basic optimizations
 - 🔐 Developing REST APIs and understanding authentication concepts
 - 🗄️ Working with databases, queries, and data consistency
 - 🤖 Creating automation scripts and simple integrations
 - 📊 Handling data and building basic dashboards
-- 🎓 Constantly learning and improving through real projects
+- 🎓 Constantly learning and improving through practice
 
 ---
 
@@ -69,16 +69,16 @@ Interested in **backend development, APIs, databases, and modern web technologie
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arieldreis&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieldreis&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Code is not just about solving problems.
+It's about learning, improving, and building solutions that create real value."_
 
 ---
 
