@@ -34,14 +34,14 @@ Interested in **backend development, APIs, databases, and modern web technologie
 
 ## 🧠 What I do
 
-- 🧩 Backend development with a focus on clean and readable code
-- 🏗️ Building backend systems and APIs for learning and real projects
-- ⚡ Applying performance-aware logic and basic optimizations
-- 🔐 Developing REST APIs and understanding authentication concepts
-- 🗄️ Working with databases, queries, and data consistency
-- 🤖 Creating automation scripts and simple integrations
-- 📊 Handling data and building basic dashboards
-- 🎓 Constantly learning and improving through practice
+- Backend development with a focus on clean and readable code
+- Building backend systems and APIs for learning and real projects
+- Applying performance-aware logic and basic optimizations
+- Developing REST APIs and understanding authentication concepts
+- Working with databases, queries, and data consistency
+- Creating automation scripts and simple integrations
+- Handling data and building basic dashboards
+- Constantly learning and improving through practice
 
 ---
 
@@ -49,35 +49,36 @@ Interested in **backend development, APIs, databases, and modern web technologie
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Styled Components](https://img.shields.io/badge/Styled--Components-000000?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
 ![SpringBoot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arieldreis&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieldreis&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/?username=arieldreis&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true&custom_title=Ariel%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieldreis&show_icons=true&theme=highcontrast" />
 </p>
 
 ---
 
-## 🚀 Philosophy
+## Philosophy
 
 > _"Code is not just about solving problems.
 It's about learning, improving, and building solutions that create real value."_
